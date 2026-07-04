@@ -1,0 +1,9 @@
+# OIBSIP Data Science internship — verified working versions
+# Python 3.13 (Anaconda).  Install:  pip install -r requirements.txt
+pandas==2.3.3
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+joblib==1.4.2
+jupyter
