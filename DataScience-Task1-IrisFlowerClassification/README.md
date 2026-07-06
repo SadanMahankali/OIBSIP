@@ -28,11 +28,11 @@ The classic Iris dataset, loaded straight from scikit-learn (no download needed)
 
 ## How to run
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Then open the notebook and run the cells top to bottom:
 
-SadanMahankali_Task1.ipynb
+    SadanMahankali_Task1.ipynb
 
 ## Files
 - 'SadanMahankali_Task1.ipynb' - the full analysis notebook
