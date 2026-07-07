@@ -1,5 +1,9 @@
 # Task 1 - Iris Flower Classification
 
+## Demo
+
+📹 [Watch the walkthrough](https://www.youtube.com/watch?v=e8g1N_dfcUM)
+
 ## Objective
 
 Given a flower's measurements, predict which of three iris species it is (setosa, versicolor, virginica). It's a supervised classification problem.
