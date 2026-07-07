@@ -26,7 +26,7 @@ The classic Iris dataset, loaded straight from scikit-learn (no download needed)
 
 ## Results
 
-- **KNN was the best model.** On the single train/test split it hit 100%, but 5-fold cross-validation gave us a more honest ~97% (the Decision Tree got ~95%).
+- **KNN was the best model** (though only just). On the single train/test split it hit 100%, but 5-fold cross-validation gave a more honest 97.3% (the Decision Tree got 96.7%, a hair behind).
 - **Petal length was the most useful feature** for seperating species; sepal width the least.
 - **Setosa** was completely seperated from the other two, while **versicolor** and **virginica** overlapped slightly, which is exactly where the Decision Tree made its only 2 mistakes.
 
